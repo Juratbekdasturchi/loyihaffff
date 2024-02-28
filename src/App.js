@@ -62,7 +62,7 @@ function App() {
       <footer>
         <div className='box'>
           <h4>Features</h4>
-          <ul>
+          <ul className='boxcha'>
             <li>Cool stuff</li>
             <li>Random feature</li>
             <li>Team feature</li>
@@ -74,7 +74,7 @@ function App() {
 
         <div className='box'>
           <h4>Resources</h4>
-          <ul>
+          <ul className='boxcha'>
             <li>Resource</li>
             <li>Resource name</li>
             <li>Another resource</li>
@@ -83,7 +83,7 @@ function App() {
         </div>
 
         <div className='box'>
-          <ul>
+          <ul className='boxcha'>
           <h4>About</h4>
           <li>Team</li>
           <li>Locations</li>
