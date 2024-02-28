@@ -58,6 +58,7 @@ function App() {
           </div>
         </div>
       </main>
+      <h1> Assalomu alaykum</h1>
       <footer>
         <div className='Features'>
           <h4>Features</h4>
