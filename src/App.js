@@ -59,33 +59,6 @@ function App() {
         </div>
       </main>
       <h1> Assalomu alaykum</h1>
-      <footer>
-        <div className='Features'>
-          <h4>Features</h4>
-          <a href='#'>Cool stuff</a>
-          <a href='#'>Random feature</a>
-          <a href='#'>Team feature</a>
-          <a href='#'>Stuff for developers</a>
-          <a href='#'>Another one</a>
-          <a href='#'>Last time</a>
-        </div>
-
-        <div className='Resources'>
-          <h4>Resources</h4>
-          <a href='#'>Resource</a>
-          <a href='#'>Resource name</a>
-          <a href='#'>Another resource</a>
-          <a href='#'>Final resource</a>
-        </div>
-
-        <div className='About'>
-          <h4>About</h4>
-          <a href='#'>Team</a>
-          <a href='#'>Locations</a>
-          <a href='#'>Privacy</a>
-          <a href='#'>Terms</a>
-        </div>
-      </footer>
     </div>
   );
 }
