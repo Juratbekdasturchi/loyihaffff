@@ -58,7 +58,7 @@ function App() {
           </div>
         </div>
       </main>
-      <h1> Assalomu alaykum</h1>
+
       <footer>
         <div className='box'>
           <h4>Features</h4>
