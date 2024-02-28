@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      {/* <header className="App-header"> */}
         <header>
           <h3> JANOB JORCH1 </h3>
           <ul>
@@ -27,7 +27,7 @@ function App() {
         >
           Learn React
         </a> */}
-      </header>
+      {/* </header> */}
     </div>
   );
 }
