@@ -91,7 +91,7 @@ footer {
   border-top: 1px solid gray;
 }
 .box{
-  display: flex;
+  display: grid;
   flex-direction: column;
 }
 li{
