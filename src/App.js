@@ -14,7 +14,7 @@ function App() {
             <li>Pricing</li>
 
           </ul>
-        <button className="btn0"><a class="btn" href="#">Sign up</a></button>
+        <button className="btn0"><a className="btn" href="#">Sign up</a></button>
         </header>
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
         {/* <p>
