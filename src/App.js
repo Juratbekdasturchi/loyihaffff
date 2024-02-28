@@ -17,7 +17,7 @@ function App() {
 
         </header>
 
-            </header>
+      </header>
       <main>
         <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
           <h1 class="display-4">Pricing</h1>
@@ -59,6 +59,39 @@ function App() {
         </div>
       </main>
       <h1> Assalomu alaykum</h1>
+      <footer>
+        <div className='Features'>
+          <h4>Features</h4>
+          <ul>
+            <li>Cool stuff</li>
+            <li>Random feature</li>
+            <li>Team feature</li>
+            <li>Stuff for developers</li>
+            <li>Another one</li>
+            <li>Last time</li>
+          </ul>
+        </div>
+
+        <div className='Resources'>
+          <h4>Resources</h4>
+          <ul>
+            <li>Resource</li>
+            <li>Resource name</li>
+            <li>Another resource</li>
+            <li>Final resource</li>
+          </ul>
+        </div>
+
+        <div className='About'>
+          <ul>
+          <h4>About</h4>
+          <li>Team</li>
+          <li>Locations</li>
+          <li>Privacy</li>
+          <li>Terms</li>
+          </ul>
+        </div>
+      </footer>
     </div>
   );
 }
