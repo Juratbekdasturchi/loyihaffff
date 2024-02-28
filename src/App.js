@@ -12,7 +12,7 @@ function App() {
             <li>Enterprise</li>
             <li>Support</li>
             <li>Pricing</li>
-<button> Sign Up</button>
+            <button className='kirish'> Sign Up</button>
           </ul>
 
         </header>
