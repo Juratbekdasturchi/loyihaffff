@@ -3,6 +3,7 @@ header {
   height: 60px;
   padding: 0 20px;
   display: flex;
+  align-items: center;
   justify-content: space-between;
   box-shadow: 0px 0px 6px 0px gray;
 }
@@ -20,6 +21,7 @@ ul {
   border: 1px solid blue;
   color: blue;
   font-size: 15px;
+  border-radius: 10px;
 }
 
 a {
