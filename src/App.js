@@ -60,7 +60,7 @@ function App() {
       </main>
       <h1> Assalomu alaykum</h1>
       <footer>
-        <div className='Features'>
+        <div className='box'>
           <h4>Features</h4>
           <ul>
             <li>Cool stuff</li>
@@ -72,7 +72,7 @@ function App() {
           </ul>
         </div>
 
-        <div className='Resources'>
+        <div className='box'>
           <h4>Resources</h4>
           <ul>
             <li>Resource</li>
@@ -82,7 +82,7 @@ function App() {
           </ul>
         </div>
 
-        <div className='About'>
+        <div className='box'>
           <ul>
           <h4>About</h4>
           <li>Team</li>
