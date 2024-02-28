@@ -12,8 +12,9 @@ function App() {
             <li>Enterprise</li>
             <li>Support</li>
             <li>Pricing</li>
-            <button className="btn0"><a class="btn" href="#">Sign up</a></button>
+
           </ul>
+        <button className="btn0"><a class="btn" href="#">Sign up</a></button>
         </header>
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
         {/* <p>
